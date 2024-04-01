@@ -1,29 +1,33 @@
-*{
+* {
   margin: 0;
   padding: 0;
 }
-h1{
-  text-align:center;
-}
-.título-principal{
-  padding-left: 20px:
 
-.título-secundário{
+h1 {
   text-align: center;
-  
-body{
-  background: #cccccc
 }
-p{
-  text-align: center;
-  font-size:20px
-}
-em strong{
-  color: purple;
-}
-#missao{
-  font-size:30px
-}
-#banner{
-  width:100%
-}
+
+.título-principal {
+  padding-left: 20px: .título-secundário {
+    text-align: center;
+
+    body {
+      background: #cccccc
+    }
+
+    p {
+      text-align: center;
+      font-size: 20px
+    }
+
+    em strong {
+      color: purple;
+    }
+
+    #missao {
+      font-size: 30px
+    }
+
+    #banner {
+      width: 100%
+    }
