@@ -59,4 +59,14 @@ nav a:hover {
     .produtos li:holve h2 {
         front-size: 34px;
     }
+    footer{ 
+        text-aling: center;
+        background: url("bg.jpg");
+        podding: 40px 0;
+    }
+    copyright{
+        color: #FFFFFF
+        font-sige:13px
+        margin:20px 0 0;
+    }
 }
